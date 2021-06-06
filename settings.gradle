@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MAD_Practical2_S10203209"
